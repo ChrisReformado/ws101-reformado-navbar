@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-reformado-navbar/static/css/main.345cf1d7.css",
+    "main.js": "/ws101-reformado-navbar/static/js/main.56f1be42.js",
+    "index.html": "/ws101-reformado-navbar/index.html",
+    "main.345cf1d7.css.map": "/ws101-reformado-navbar/static/css/main.345cf1d7.css.map",
+    "main.56f1be42.js.map": "/ws101-reformado-navbar/static/js/main.56f1be42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.345cf1d7.css",
+    "static/js/main.56f1be42.js"
+  ]
+}
